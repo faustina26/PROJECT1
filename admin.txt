@@ -10,4 +10,8 @@ add user1
 create user2
 add user2
 
-for conflict checking database1
+
+
+create a database 2 for conflict checking
+choosing databse 2
+
