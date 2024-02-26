@@ -1,2 +1,5 @@
 Adding new user data
 process the data
+
+User input added avatar
+create avatar
