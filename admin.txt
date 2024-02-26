@@ -9,3 +9,5 @@ add user1
 
 create user2
 add user2
+
+for conflict checking database1
