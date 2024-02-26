@@ -3,3 +3,6 @@ gives access
 
 accepts the resources of users
 enters it into the database
+
+create user1
+add user1
