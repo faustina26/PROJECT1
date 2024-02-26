@@ -6,3 +6,6 @@ enters it into the database
 
 create user1
 add user1
+
+create user2
+add user2
