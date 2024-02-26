@@ -7,5 +7,3 @@ create avatar
 avatar created for user1
 initialise user1
 
-avatar created for user2
-initialise user2
