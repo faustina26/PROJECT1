@@ -2,7 +2,7 @@ adds the users and data
 gives access
 
 accepts the resources of users
-enters it into the database
+enters it into the mysql database
 
 create user1
 add user1
