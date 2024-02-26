@@ -3,3 +3,6 @@ process the data
 
 User input added avatar
 create avatar
+
+avatar created for user1
+initialise user1
